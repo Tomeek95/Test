@@ -1,0 +1,11 @@
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.exe
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.deps.json
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.runtimeconfig.json
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.runtimeconfig.dev.json
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.dll
+D:\Fontos\Egyetem\Github\Unequal\Unequal\bin\Debug\netcoreapp3.0\Unequal.pdb
+D:\Fontos\Egyetem\Github\Unequal\Unequal\obj\Debug\netcoreapp3.0\Unequal.csprojAssemblyReference.cache
+D:\Fontos\Egyetem\Github\Unequal\Unequal\obj\Debug\netcoreapp3.0\Unequal.AssemblyInfoInputs.cache
+D:\Fontos\Egyetem\Github\Unequal\Unequal\obj\Debug\netcoreapp3.0\Unequal.AssemblyInfo.cs
+D:\Fontos\Egyetem\Github\Unequal\Unequal\obj\Debug\netcoreapp3.0\Unequal.dll
+D:\Fontos\Egyetem\Github\Unequal\Unequal\obj\Debug\netcoreapp3.0\Unequal.pdb
